@@ -4,7 +4,7 @@
 
 ### foco 🖖🤟🚀🛸
 
-[<img src="." alt="gif da tela do projeto">]
+
 
 # tecnologias Usadas
 - HTML
